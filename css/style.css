@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#front{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #102030;
+}
+
+.container{
+    border: 2px solid #e9d22d;
+    border-radius: 5px;
+    padding: 25px 35px;
+    font-size: 65px;
+    font-family: Bahnschrift SemiBold;
+    color: #e9d22d;
+    letter-spacing: 2px;
+    box-shadow: 1px 1px 13px 1px #e9d22d;
+}
+
