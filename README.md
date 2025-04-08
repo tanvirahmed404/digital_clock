@@ -12,11 +12,12 @@ A simple digital clock using HTML, CSS, JavaScript.
 
 To deploy this project
 
-1. Open Command Promt
-2. Copy this Command
+
+1. Copy this Command
 ```bash
   git clone https://github.com/tanvirahmed404/digital_clock.git
 ```
+2. Paste on Command Promt
 
 
 ## 🚀 About Me
